@@ -1,4 +1,4 @@
-# Gans — Predicting Where E-Scooters Are Needed
+# Gans — Buliding a data pipeline 
 
 A data pipeline project I built during my data analytics training. The idea behind it: if a city-based e-scooter company wants to put scooters where people actually need them, what outside data could help them predict demand — and how do you collect and store it automatically?
 
